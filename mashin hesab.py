@@ -20,7 +20,7 @@ if i==1:
         print(result)
         
     if op=="cot":
-        rsult=1/(c)
+        rsult=1/(math.tan(c)
         print(result)
         
     if op=="sqrt":
